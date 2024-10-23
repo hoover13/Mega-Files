@@ -2,13 +2,13 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="assignment2/Program.cs">
     <Files>
-      <File FileName="assignment2/Program.cs" Line="4" Column="30" />
+      <File FileName="assignment2/Program.cs" Line="9" Column="45" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="assignment2" expanded="True">
-            <Node name="assignment2" expanded="True">
+            <Node name="assignment2">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
